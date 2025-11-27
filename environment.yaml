@@ -3,5 +3,5 @@ channels:
   - conda-forge
 dependencies:
   - python=3.11
-  - pandas
-  - conda-lock
+  - pandas=2.3.3
+  - conda-lock=3.0.4
